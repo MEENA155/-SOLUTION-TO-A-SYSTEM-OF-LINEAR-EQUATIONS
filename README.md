@@ -14,11 +14,18 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+'''
+Developed By
+             Name:S.Meena
+             Ref No:21500895
+'''             
+```             
 import numpy as np
 a=np.array([[1,3],[2,5]])
 b=np.array([5,-3])
 le=np.linalg.solve(a,b)
 print(le)
+```
 ## Output:
 ![OUTPUT](./SS.png)
 ## Result: 
